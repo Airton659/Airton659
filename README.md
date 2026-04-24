@@ -116,7 +116,7 @@ Intranet institucional com repositório de documentos e reestruturação do help
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Airton659&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7dd3fc&icon_color=a78bfa&text_color=cbd5e1&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airton659&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7dd3fc&text_color=cbd5e1&langs_count=8" />
+
 
 </div>
 
