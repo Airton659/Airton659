@@ -10,7 +10,7 @@
 
 Desenvolvedor Full Stack com sistemas em **produção** utilizando **Python, C# .NET 8/9, React e Flutter**. Atuo na interseção entre desenvolvimento, infraestrutura e inteligência artificial, construindo desde SPAs integradas a ERPs legados até pipelines de LLMs e apps publicados nas duas lojas.
 
-Pós-graduado em **Governança de TI** pela PUC Minas. Inglês C1 certificado.
+Pós-graduado em **Governança de TI** pela PUC Minas.
 
 > *"Entrego produto funcional — da modelagem ao deploy, com CI/CD, testes automatizados e documentação."*
 
