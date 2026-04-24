@@ -137,7 +137,7 @@ Intranet institucional com repositório de documentos e reestruturação do help
 | Engenharia de Produção | FUNCESI | Concluído (2019) |
 | Técnico em Redes de Computadores | SENAC | Concluído (2011) |
 
-**Certificações:** Inglês C1 · Python OO (Alura) · SQL Expert · Git/GitHub · Power BI · Prep. EXIN DevOps Professional
+**Certificações:**  Python OO (Alura) · SQL Expert · Git/GitHub · Power BI · Prep. EXIN DevOps Professional
 
 ---
 
