@@ -28,9 +28,11 @@ Pós-graduado em **Governança de TI** pela PUC Minas.
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-0f172a?style=for-the-badge&logo=dotnet&logoColor=a78bfa)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=4ade80)
+![Django](https://img.shields.io/badge/Django%205-0f172a?style=for-the-badge&logo=django&logoColor=4ade80)
 ![React](https://img.shields.io/badge/React%2019-0f172a?style=for-the-badge&logo=react&logoColor=61dafb)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
 ![SignalR](https://img.shields.io/badge/SignalR%20%2F%20Socket.io-0f172a?style=for-the-badge&logo=dotnet&logoColor=f472b6)
+![HTMX](https://img.shields.io/badge/HTMX-0f172a?style=for-the-badge&logo=htmx&logoColor=f97316)
 
 ### 🗄️ Banco de Dados
 
@@ -38,6 +40,7 @@ Pós-graduado em **Governança de TI** pela PUC Minas.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=a78bfa)
 ![SQLite](https://img.shields.io/badge/SQLite-0f172a?style=for-the-badge&logo=sqlite&logoColor=60a5fa)
 ![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-0f172a?style=for-the-badge&logo=oracle&logoColor=f87171)
+![Firebase](https://img.shields.io/badge/Firebase%20Firestore-0f172a?style=for-the-badge&logo=firebase&logoColor=facc15)
 
 ### ☁️ DevOps, Infra & Cloud
 
@@ -88,6 +91,31 @@ SPA integrada ao ERP **TOTVS RM** via WebService SOAP e conexão ODBC.
 
 ---
 
+### 📊 SAD — Sistema de Avaliação de Desempenho · [Itaurb]
+PWA completo em Flutter/Dart com backend Firebase, cobrindo o ciclo completo de avaliação de desempenho.
+
+- **Stack:** Flutter · Dart · Provider · Firebase Firestore · Firebase Hosting · Firebase Storage · googleapis
+- **Destaques:** Assinatura digital segura com geolocalização, hash SHA-256 e metadados do dispositivo; geração de PDFs (Anexos I a XI) diretamente pelo app; integração com Google Sheets; central de ciclos avaliativos e impressão em lote com filtros
+- **Testes:** Playwright E2E — badge **passing** no CI
+
+---
+
+### 🏢 Sistema de Controle Interno · [Itaurb]
+Plataforma corporativa multimodular em produção cobrindo os principais fluxos administrativos da organização.
+
+- **Módulos:** Atendimento ao cidadão (protocolo automático, histórico auditável, notificação WhatsApp) · Frota (manutenção com 3 cotações, abastecimento, incidentes, agenda) · Reserva de salas com detecção de conflitos em tempo real · Organograma interativo com HTMX e log auditável
+- **Stack:** Python · Django 5 · SQLite · Bootstrap · TailwindCSS · HTMX · OrgChart.js · openpyxl · Waitress (Windows Server)
+
+---
+
+### 🔍 Processador de Avaliações — OCR · [Itaurb]
+Automação em Python que processa formulários digitalizados via OCR, extrai matrículas e notas de bolhas marcadas e gera relatório Excel consolidado.
+
+- **Stack:** Python · OpenCV · Tesseract OCR · openpyxl · PyInstaller · Tkinter
+- Distribuído como **.exe standalone** via PyInstaller — sem necessidade de instalação pelo usuário final
+
+---
+
 ### 🤖 AtendeAI · [Projeto Pessoal]
 Atendimento automatizado via WhatsApp com bots inteligentes.
 
@@ -117,7 +145,6 @@ Intranet institucional com repositório de documentos e reestruturação do help
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Airton659&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=7dd3fc&icon_color=a78bfa&text_color=cbd5e1&count_private=true" />
 
-
 </div>
 
 <div align="center">
@@ -137,7 +164,7 @@ Intranet institucional com repositório de documentos e reestruturação do help
 | Engenharia de Produção | FUNCESI | Concluído (2019) |
 | Técnico em Redes de Computadores | SENAC | Concluído (2011) |
 
-**Certificações:**  Python OO (Alura) · SQL Expert · Git/GitHub · Power BI · Prep. EXIN DevOps Professional
+**Certificações:** Python OO (Alura) · SQL Expert · Git/GitHub · Power BI · Prep. EXIN DevOps Professional
 
 ---
 
